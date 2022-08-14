@@ -18,11 +18,10 @@ function App() {
         >
           Learn React
         </a>
-        <p>11</p>
-        <p>2</p>
-        <p>3</p>
-        <p>4</p>
-        <p>5</p>
+        <div>
+          <div>App</div>
+          <div>Dev branch commit 1</div>
+        </div>
       </header>
     </div>
   );
