@@ -22,6 +22,7 @@ function App() {
           <div>App</div>
           <div>Dev branch commit 1</div>
           <div>developer/login branch commit 1</div>
+          <div>developer/login branch commit 2</div>
         </div>
       </header>
     </div>
